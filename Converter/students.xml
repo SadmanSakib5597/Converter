@@ -1,0 +1,36 @@
+<array>
+    <student>
+        <roll>1005</roll>
+        <phoneNo>9222326</phoneNo>
+        <email>www.facebook.com</email>
+        <Name>sakib</Name>
+    </student>
+</array><array>
+<student>
+    <roll>1022</roll>
+    <phoneNo>7631819</phoneNo>
+    <email>www.instagram.com</email>
+    <Name>nirob</Name>
+</student>
+</array><array>
+<student>
+    <roll>1024</roll>
+    <phoneNo>2654393</phoneNo>
+    <email>www.google.com</email>
+    <Name>ahasan</Name>
+</student>
+</array><array>
+<student>
+    <roll/>
+    <phoneNo>75487338</phoneNo>
+    <email>www.sakibergolpo.com</email>
+    <Name>bashir</Name>
+</student>
+</array><array>
+<student>
+    <roll>1006</roll>
+    <phoneNo>785336743</phoneNo>
+    <email>www.eiholo.com</email>
+    <Name>yasin</Name>
+</student>
+</array>

@@ -1,0 +1,42 @@
+[
+  {
+    "student": {
+      "roll": "bsse1005",
+      "phoneNo": 9222326,
+      "email": "www.facebook.com",
+      "Name": "sakib"
+    }
+  },
+  {
+    "student": {
+      "roll": "bsse1022",
+      "phoneNo": 7631819,
+      "email": "www.instagram.com",
+      "Name": "nirob"
+    }
+  },
+  {
+    "student": {
+      "roll": "bsse1024",
+      "phoneNo": 2654393,
+      "email": "www.google.com",
+      "Name": "ahasan"
+    }
+  },
+  {
+    "student": {
+      "roll": "bsse1022",
+      "phoneNo": 75487338,
+      "email": "www.sakibergolpo.com",
+      "Name": "bashir"
+    }
+  },
+  {
+    "student": {
+      "roll": "bsse1006",
+      "phoneNo": 785336743,
+      "email": "www.eiholo.com",
+      "Name": "yasin"
+    }
+  }
+]

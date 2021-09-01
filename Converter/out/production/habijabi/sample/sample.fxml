@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+
+
+<GridPane alignment="center" hgap="10" vgap="10" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/10.0.1" fx:controller="sample.Controller">
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <AnchorPane opacity="0.55" prefHeight="230.0" prefWidth="330.0" style="-fx-background-color: blue;">
+         <children>
+            <Button fx:id="Select_file" layoutX="67.0" layoutY="45.0" mnemonicParsing="false" onAction="#print" onMouseClicked="#print" text="select File..." />
+            <Label fx:id="path" layoutX="165.0" layoutY="44.0" prefHeight="32.0" prefWidth="128.0" style="-fx-background-color: #48C9B0;" text="      path.... ... ....." textFill="#0e8439" />
+            <ComboBox fx:id="choose_file" layoutX="105.0" layoutY="92.0" prefWidth="150.0" promptText="Choose File Type" style="-fx-background-color: #E74C3C;" />
+            <Button fx:id="convert_file" layoutX="151.0" layoutY="140.0" mnemonicParsing="false" onAction="#convert" text="Convert" />
+         </children>
+      </AnchorPane>
+   </children>
+</GridPane>
